@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fffbe6; }
+header { background: #f8b400; color: #fff; padding: 20px 0; text-align: center; }
+.container { max-width: 500px; margin: 40px auto; padding: 30px; background: #fff; border-radius: 10px; box-shadow: 0 2px 12px #eee; text-align: center; }
+h1 { margin-top: 0; }
+.donate-btn { display: inline-block; margin: 20px 15px 0 15px; padding: 14px 32px; font-size: 1.1rem; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; transition: background 0.2s; }
+.paypal { background: #ffc439; color: #111; }
+.paypal:hover { background: #ffb347; }
+.credit { background: #0070ba; color: #fff; }
+.credit:hover { background: #005fa3; }
+.back-link { display: inline-block; margin-top: 30px; color: #f8b400; text-decoration: underline; }
